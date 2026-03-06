@@ -1,0 +1,9 @@
+{
+    "name": "Bird OS Companion",
+    "display_name": "鸟OS - 沉浸式陪伴系统",
+    "description": "专为追求陪伴感打造的系统。包含日记、体重、经期同步，让你的推真正参与你的生活！",
+    "version": "1.0.0",
+    "author": "你的名字",
+    "main": "index.js",
+    "requires": ["1.11.0"] 
+}
